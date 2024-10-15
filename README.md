@@ -36,4 +36,6 @@ JWT Authentication: For securing user login and signup.
 
 # Output
 
-![Screenshot 2024-10-11 212352](https://github.com/user-attachments/assets/2cd2f766-936a-4789-ba2c-c800a2006082)
+
+![Screenshot 2024-10-11 212352](https://github.com/user-attachments/assets/372d66cd-b3b5-4f3a-89c5-9946d2b981b0)
+
